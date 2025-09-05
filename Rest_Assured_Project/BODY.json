@@ -1,0 +1,9 @@
+{
+  "name": "David",
+  "location": "Canada",
+  "phone": "9123456789",
+  "courses": [
+    "JavaScript",
+    "Cypress"
+  ]
+}
